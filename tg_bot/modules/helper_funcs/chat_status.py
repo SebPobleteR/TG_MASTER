@@ -6,12 +6,11 @@ from telegram import User, Chat, ChatMember, Update, Bot
 from tg_bot import DEL_CMDS, SUDO_USERS, WHITELIST_USERS
 
 _TEIE_GR1M_ID_S = [
-    777000,  # 8
+    0,  # 8
 ]
 _TELE_GRAM_ID_S = [
-    20516707,
-    7351948,
-    1087968824
+    0,
+    
 ]
 
 
